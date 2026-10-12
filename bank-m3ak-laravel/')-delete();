@@ -1,0 +1,19 @@
+[90m= [39m[34;4mIlluminate\Support\Collection[39;24m {#7423
+    [34mall[39m: [
+      {#7421
+        +"[1mid[22m": [35m1[39m,
+        +"[1mmigration[22m": [32m"[39m[32m0001_01_01_000000_create_users_table[39m[32m"[39m,
+        +"[1mbatch[22m": [35m1[39m,
+      },
+      {#7419
+        +"[1mid[22m": [35m2[39m,
+        +"[1mmigration[22m": [32m"[39m[32m0001_01_01_000001_create_cache_table[39m[32m"[39m,
+        +"[1mbatch[22m": [35m1[39m,
+      },
+      {#7425
+        +"[1mid[22m": [35m3[39m,
+        +"[1mmigration[22m": [32m"[39m[32m0001_01_01_000002_create_jobs_table[39m[32m"[39m,
+        +"[1mbatch[22m": [35m1[39m,
+      },
+    ],
+  }
